@@ -7,7 +7,7 @@ by SpectraSymbol.
 
 There are a few things one can edit to make the design more simple like removing the softpots and switches and/or removing 1/4 inch jack sockets at top and bottom.I am also using Push/Pull pots but this design will work with a regular pot and a 6 pin DPDT switch.
 
-this will leave you with a circuit diagram much the same as one described in Nicolas Collin Handmade Electronics The Art of 
+This will leave you with a circuit diagram much the same as one described in Nicolas Collins Handmade Electronics The Art of 
 Hacking.
 
 Enjoy.
